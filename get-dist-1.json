@@ -3,11 +3,25 @@
     "features": [{
         "type": "Feature",
         "id": 2587287,
+        "timestamp": "2016-03-18 23:05:02+01",
         "rpath": ["2587287", "1973756", "49915", "0"],
         "properties": {
             "id": 2587287,
             "name": "District 1",
-            "localname": "Quận 1"
+            "localname": "Quận 1",
+            "timestamp": "2016-03-18 23:05:02+01",
+            "SRID": "4326",
+            "admin_level": 6,
+            "rpath": ["2587287", "1973756", "49915", "0"],
+            "tags": {
+                "name": "Quận 1",
+                "name:en": "District 1",
+                "name:vi": "Quận 1",
+                "boundary": "administrative",
+                "is_in:city": "Ho Chi Minh City",
+                "admin_level": "6",
+                "is_in:country": "Vietnam"
+            }
         },
         "geometry": {
             "type": "MultiPolygon",
